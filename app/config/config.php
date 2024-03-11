@@ -10,7 +10,7 @@
 
 
     /**
-     * Dit is het pad naar de app directory
+     * Dit is het pad naar de app directory.
      */
     define('APPROOT', dirname(dirname(__FILE__)));
 
